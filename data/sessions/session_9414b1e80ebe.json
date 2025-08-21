@@ -1,0 +1,21 @@
+{
+  "analysis_id": "analysis_170f77ee_20250728_105552",
+  "status": "idle",
+  "stock_symbol": "",
+  "market_type": "A股",
+  "timestamp": 1753757962.0346437,
+  "last_update": 1753757962.0346444,
+  "fingerprint": "session_9414b1e80ebe",
+  "form_config": {
+    "stock_symbol": "",
+    "market_type": "A股",
+    "research_depth": 3,
+    "selected_analysts": [
+      "market",
+      "fundamentals"
+    ],
+    "include_sentiment": true,
+    "include_risk_assessment": true,
+    "custom_prompt": ""
+  }
+}
