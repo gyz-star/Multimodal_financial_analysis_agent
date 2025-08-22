@@ -74,7 +74,7 @@ cd Multimodal_financial_analysis_agent
 pip install -r requirements.txt
 
 # 启动服务
-python start_app.py
+python start_web.py
 # 访问 http://localhost:8501 进入Web界面
 ```
 
